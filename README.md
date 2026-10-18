@@ -1,0 +1,1 @@
+Lab 01: Environment Setup   Lab 02: Exploratory Data Analysis (EDA) , Web scraping   Lab 03: Text and Image Features (Vectorization)   Lab 04: CNN Architecture Pipeline (Convolution, ReLU, Pooling, Flatten, Softmax) 
